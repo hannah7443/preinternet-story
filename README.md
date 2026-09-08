@@ -7,4 +7,4 @@ This is an HTML/CSS website created to display a story from someone who lived an
 From there, I decided to design a website inspired by the slam book. I did this by creating a spiral-bound notebook using ASCII, as well as stickers, glitter, and other physical mediums that would be found in a scrapbook.
 
 ## Feeling
-The feeling I was assigned was "playful". 
+The second part of this assignment - after interviewing - was to create a website based on an assigned feeling. The feeling I was assigned was "playful". 
